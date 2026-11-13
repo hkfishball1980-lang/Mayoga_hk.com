@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MAYOGA｜九龍灣精品瑜伽教室・第 20 屆 Yoga Alliance RYS 200／300 導師培訓</title>
+  <meta name="description" content="MAYOGA 位於九龍灣美羅中心二期 22 樓 2 室，由資深導師 May Cheung（E-RYT 500）親授廣東話 RYS 200／300 瑜伽導師課程、手倒立及常規瑜伽課堂。" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Noto+Sans+TC:wght@300;400;500;700&family=Noto+Serif+TC:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Noto Sans TC', sans-serif; background-color: #FCF9F2; color: #3A3530; }
+    h1, h2, h3, .font-serif-editorial { font-family: 'Noto Serif TC', 'Cormorant Garamond', serif; }
+    .brand-en { font-family: 'Cormorant Garamond', serif; letter-spacing: 0.18em; }
+  </style>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ExerciseGym",
+    "name": "MAYOGA",
+    "url": "https://www.mayogahk.com/",
+    "telephone": "+852-6099-5333",
+    "email": "Mayoga.hk@gmail.com",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "九龍灣美羅中心二期22樓2室",
+      "addressLocality": "Kowloon Bay",
+      "addressRegion": "Hong Kong",
+      "addressCountry": "HK"
+    },
+    "sameAs": ["https://www.instagram.com/mayoga_hk/"]
+  }
+  </script>
+</head>
+<body class="antialiased leading-relaxed selection:bg-[#E8DCCB] pb-20 md:pb-0">
+
+  <!-- 頂部導覽列（沿用舊站分頁＋預約系統分頁） -->
+  <header class="sticky top-0 z-50 bg-white/90 backdrop-blur-md border-b border-[#EAE0D0]">
+    <div class="max-w-6xl mx-auto px-5 py-4 flex items-center justify-between">
+      <a href="#top" class="brand-en text-2xl md:text-3xl font-semibold text-[#3A3530]">MAYOGA</a>
+      <nav class="hidden lg:flex items-center gap-7 text-sm font-normal tracking-wide text-[#5C544B]">
+        <a href="#top" class="text-[#3A3530] font-medium">首頁</a>
+        <a href="#about" class="hover:text-[#B38E5D] transition">關於我們</a>
+        <a href="#programs" class="hover:text-[#B38E5D] transition">課堂簡介</a>
+        <a href="#teachers" class="hover:text-[#B38E5D] transition">導師簡介</a>
+        <a href="#news" class="hover:text-[#B38E5D] transition">最新消息</a>
+        <a href="#contact" class="hover:text-[#B38E5D] transition">聯絡我們</a>
+        <a href="https://harmonious-piroshki-ef19a4.netlify.app/" target="_blank" class="ml-2 px-6 py-2.5 rounded-full bg-[#3A3530] text-[#FCF9F2] text-xs tracking-widest uppercase hover:bg-[#B38E5D] transition">課堂預約</a>
+      </nav>
+      <a href="https://harmonious-piroshki-ef19a4.netlify.app/" target="_blank" class="lg:hidden px-4 py-2 rounded-full bg-[#3A3530] text-[#FCF9F2] text-xs tracking-wider">課堂預約</a>
+    </div>
+  </header>
+
+  <!-- Hero 首屏（純白至淺奶油漸層＋右上角極簡曼陀羅點綴） -->
+  <section id="top" class="relative overflow-hidden bg-gradient-to-b from-white via-[#FCF9F2] to-[#F5EFE4]">
+    <!-- 右上角極簡曼陀羅線條（輕輕帶過） -->
+    <svg class="pointer-events-none absolute -top-24 -right-24 w-[420px] h-[420px] text-[#C4A47C] opacity-[0.14]" viewBox="0 0 200 200" fill="none" stroke="currentColor" stroke-width="0.6">
+      <circle cx="100" cy="100" r="24"/><circle cx="100" cy="100" r="48"/><circle cx="100" cy="100" r="72"/><circle cx="100" cy="100" r="94"/>
+      <path d="M100 6 C112 36,112 64,100 100 C88 64,88 36,100 6 Z"/>
+      <path d="M100 194 C112 164,112 136,100 100 C88 136,88 164,100 194 Z"/>
+      <path d="M6 100 C36 88,64 88,100 100 C64 112,36 112,6 100 Z"/>
+      <path d="M194 100 C164 88,136 88,100 100 C136 112,164 112,194 100 Z"/>
+      <path d="M33 33 C60 45,78 63,100 100 C63 78,45 60,33 33 Z"/>
+      <path d="M167 167 C140 155,122 137,100 100 C137 122,155 140,167 167 Z"/>
+      <path d="M167 33 C155 60,137 78,100 100 C122 63,140 45,167 33 Z"/>
+      <path d="M33 167 C45 137,63 122,100 100 C78 137,60 155,33 167 Z"/>
+    </svg>
+
+    <div class="max-w-6xl mx-auto px-5 py-16 md:py-24 grid md:grid-cols-12 gap-12 items-center relative z-10">
+      <div class="md:col-span-7">
+        <p class="text-xs tracking-[0.2em] uppercase text-[#9A8265] mb-4">Kowloon Bay · Since 19th Cohorts</p>
+        <h1 class="text-3xl md:text-5xl font-semibold text-[#3A3530] leading-[1.25] mb-6">尋回身心的寧靜與力量：<br />九龍灣粵語瑜伽與導師培訓</h1>
+        <p class="text-base md:text-lg text-[#5C544B] leading-relaxed max-w-xl mb-8">由 Yoga Alliance E-RYT 500 導師 May Cheung 親授，累積 19 屆培育香港瑜伽導師經驗。從呼吸與正位出發，陪你由日常地面及倒立練習，穩步走進專業教學之路。</p>
+        <div class="flex flex-wrap gap-4">
+          <a href="#programs" class="px-7 py-3.5 rounded-full bg-[#3A3530] text-[#FCF9F2] text-sm tracking-wider hover:bg-[#B38E5D] transition">探索第 20 屆導師課程</a>
+          <a href="https://harmonious-piroshki-ef19a4.netlify.app/" target="_blank" class="px-7 py-3.5 rounded-full border border-[#C4A47C] text-[#3A3530] bg-white/70 text-sm tracking-wider hover:bg-white transition">立即預約課堂</a>
+        </div>
+      </div>
+
+      <!-- 拱門美學空間視覺框（可替換為真實教室或 Miss May 練習照） -->
+      <div class="md:col-span-5 flex justify-center">
+        <div class="w-full max-w-sm aspect-[4/5] rounded-t-full rounded-b-2xl bg-gradient-to-b from-[#EFE6D8] to-[#E5D7C3] p-3 shadow-sm border border-[#DFD2BE]">
+          <div class="w-full h-full rounded-t-full rounded-b-xl bg-[#FCF9F2] flex flex-col items-center justify-center text-center p-8">
+            <svg class="w-14 h-14 text-[#C4A47C] mb-4 opacity-80" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="1">
+              <circle cx="50" cy="50" r="18"/><circle cx="50" cy="50" r="34"/>
+              <path d="M50 10 C56 28,56 38,50 50 C44 38,44 28,50 10 Z"/>
+              <path d="M50 90 C56 72,56 62,50 50 C44 62,44 72,50 90 Z"/>
+              <path d="M10 50 C28 44,38 44,50 50 C38 56,28 56,10 50 Z"/>
+              <path d="M90 50 C72 44,62 44,50 50 C62 56,72 56,90 50 Z"/>
+            </svg>
+            <p class="font-serif-editorial text-lg text-[#3A3530] mb-1">呼吸先於體式</p>
+            <p class="text-xs text-[#8A7D6B] tracking-wider">九龍灣美羅中心二期 22 樓 2 室</p>
+            <p class="text-[11px] text-[#A89B88] mt-4">（可在此放入 Miss May 或教室自然光實景照）</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 四大核心亮點（純白卡片） -->
+  <section id="about" class="bg-white py-14 border-y border-[#EFE6D8]">
+    <div class="max-w-6xl mx-auto px-5 grid grid-cols-2 md:grid-cols-4 gap-6">
+      <div class="p-5 rounded-2xl bg-[#FCF9F2] border border-[#EFE6D8]">
+        <p class="font-serif-editorial text-2xl font-semibold text-[#3A3530]">第 20 屆</p>
+        <p class="text-xs text-[#7A7064] mt-1">19 屆實戰師資培訓沉澱</p>
+      </div>
+      <div class="p-5 rounded-2xl bg-[#FCF9F2] border border-[#EFE6D8]">
+        <p class="font-serif-editorial text-2xl font-semibold text-[#3A3530]">RYS 200 / 300</p>
+        <p class="text-xs text-[#7A7064] mt-1">美國瑜伽聯盟雙重認可學校</p>
+      </div>
+      <div class="p-5 rounded-2xl bg-[#FCF9F2] border border-[#EFE6D8]">
+        <p class="font-serif-editorial text-2xl font-semibold text-[#3A3530]">100% 廣東話</p>
+        <p class="text-xs text-[#7A7064] mt-1">May Cheung 親自執教拆解</p>
+      </div>
+      <div class="p-5 rounded-2xl bg-[#FCF9F2] border border-[#EFE6D8]">
+        <p class="font-serif-editorial text-2xl font-semibold text-[#3A3530]">20 小時助教</p>
+        <p class="text-xs text-[#7A7064] mt-1">真實課堂觀察與輔助實習</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 課堂簡介（奶油暖底） -->
+  <section id="programs" class="bg-[#F5EFE4] py-16 md:py-20">
+    <div class="max-w-6xl mx-auto px-5">
+      <div class="max-w-2xl mb-10">
+        <p class="text-xs tracking-[0.2em] uppercase text-[#9A8265] mb-2">Programs &amp; Training</p>
+        <h2 class="text-2xl md:text-3xl font-semibold text-[#3A3530] mb-3">導師認證培訓與專項瑜伽課堂</h2>
+        <p class="text-sm md:text-base text-[#5C544B]">承襲完整課程體系，結合安全生理解剖與正念呼吸，提供國際認可師資班及日常進修課。</p>
+      </div>
+
+      <div class="grid md:grid-cols-3 gap-6 mb-8">
+        <div class="bg-white p-7 rounded-2xl border border-[#EAE0D0] flex flex-col justify-between">
+          <div>
+            <span class="text-[11px] tracking-widest uppercase text-[#B38E5D]">第 20 屆招生</span>
+            <h3 class="text-xl font-semibold mt-1 mb-3">RYT 200 小時瑜伽導師課程</h3>
+            <p class="text-sm text-[#5C544B] mb-4">分設平日班及週末班。涵蓋哲學、解剖、教學技巧、100 小時技術實踐及 20 小時真實課堂助教實習。</p>
+          </div>
+          <p class="text-xs text-[#8A7D6B] border-t border-[#F5EFE4] pt-3">開課：<span type="placeholder" placeholder-type="date"></span>｜學費：[待填入]</p>
+        </div>
+
+        <div class="bg-white p-7 rounded-2xl border border-[#EAE0D0] flex flex-col justify-between">
+          <div>
+            <span class="text-[11px] tracking-widest uppercase text-[#B38E5D]">進階深造</span>
+            <h3 class="text-xl font-semibold mt-1 mb-3">RYS 300 / RYT 500 進階培訓</h3>
+            <p class="text-sm text-[#5C544B] mb-4">專為 RYT 200 畢業導師而設，深入高階體式調整、痛症運動治療及個人教學風格建立。</p>
+          </div>
+          <p class="text-xs text-[#8A7D6B] border-t border-[#F5EFE4] pt-3">WhatsApp 6099 5333 查詢開班時間</p>
+        </div>
+
+        <div class="bg-white p-7 rounded-2xl border border-[#EAE0D0] flex flex-col justify-between">
+          <div>
+            <span class="text-[11px] tracking-widest uppercase text-[#B38E5D]">常規及專項</span>
+            <h3 class="text-xl font-semibold mt-1 mb-3">倒立・哈達・空中・產前產後</h3>
+            <p class="text-sm text-[#5C544B] mb-4">日常課堂及專項工作坊涵蓋手平衡倒立、無痛後灣、陰瑜伽、瑜伽輪、空中瑜伽及 RPYT 孕婦瑜伽。</p>
+          </div>
+          <a href="https://harmonious-piroshki-ef19a4.netlify.app/" target="_blank" class="text-xs font-medium text-[#B38E5D] underline pt-3">前往預約系統查看課表 →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 導師簡介與最新消息（淺奶油白） -->
+  <section id="teachers" class="bg-[#FCF9F2] py-16">
+    <div class="max-w-6xl mx-auto px-5 grid md:grid-cols-2 gap-10 items-center">
+      <div class="bg-white p-8 rounded-2xl border border-[#EAE0D0]">
+        <p class="text-xs tracking-[0.2em] uppercase text-[#9A8265] mb-2">Lead Trainer</p>
+        <h2 class="text-2xl font-semibold mb-3">May Cheung</h2>
+        <p class="text-xs text-[#8A7D6B] mb-4">Yoga Alliance E-RYT 500 · RYT 500 · YACEP 持續進修導師</p>
+        <p class="text-sm text-[#5C544B] leading-relaxed">主張「體式應為身體服務，而非勉強身體迎合體式」。多年來以貼地廣東話拆解解剖正位，陪伴數百位香港學員安全突破倒立恐懼，並培育出一批又一批紮實自信的瑜伽導師。</p>
+      </div>
+      <div id="news" class="bg-white p-8 rounded-2xl border border-[#EAE0D0]">
+        <p class="text-xs tracking-[0.2em] uppercase text-[#9A8265] mb-2">Featured Guide</p>
+        <h2 class="text-2xl font-semibold mb-3">點樣揀香港瑜伽導師課程？</h2>
+        <p class="text-sm text-[#5C544B] leading-relaxed mb-5">報讀 RYT 200 前必睇 6 大準則：廣東話吸收效率、主導師親授比例、20 小時真實助教實習、開辦屆數與 RYS 認證真偽核對。</p>
+        <a href="https://wa.me/85260995333" class="text-sm font-medium text-[#3A3530] underline hover:text-[#B38E5D]">WhatsApp 索取第 20 屆課程簡章 →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 頁尾（左下角極簡曼陀羅點綴） -->
+  <footer id="contact" class="relative overflow-hidden bg-white border-t border-[#EAE0D0] py-12 text-sm text-[#5C544B]">
+    <svg class="pointer-events-none absolute -bottom-24 -left-24 w-72 h-72 text-[#C4A47C] opacity-[0.12]" viewBox="0 0 200 200" fill="none" stroke="currentColor" stroke-width="0.6">
+      <circle cx="100" cy="100" r="30"/><circle cx="100" cy="100" r="60"/><circle cx="100" cy="100" r="90"/>
+      <path d="M100 10 C110 40,110 60,100 100 C90 60,90 40,100 10 Z"/>
+      <path d="M100 190 C110 160,110 140,100 100 C90 140,90 160,100 190 Z"/>
+      <path d="M10 100 C40 90,60 90,100 100 C60 110,40 110,10 100 Z"/>
+      <path d="M190 100 C160 90,140 90,100 100 C140 110,160 110,190 100 Z"/>
+    </svg>
+    <div class="max-w-6xl mx-auto px-5 flex flex-col md:flex-row justify-between gap-6 relative z-10">
+      <div>
+        <p class="brand-en text-xl font-semibold text-[#3A3530] mb-2">MAYOGA</p>
+        <p>地址：九龍灣美羅中心二期 22 樓 2 室</p>
+        <p>電話／WhatsApp：6099 5333｜電郵：Mayoga.hk@gmail.com</p>
+      </div>
+      <div class="flex flex-wrap items-center gap-6">
+        <a href="https://harmonious-piroshki-ef19a4.netlify.app/" target="_blank" class="underline text-[#3A3530]">課堂預約系統</a>
+        <a href="https://www.instagram.com/mayoga_hk/" target="_blank" class="underline text-[#3A3530]">Instagram @mayoga_hk</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- 手機版底部固定操作欄 -->
+  <div class="lg:hidden fixed bottom-0 inset-x-0 bg-white/95 backdrop-blur border-t border-[#EAE0D0] px-4 py-2.5 flex gap-3 z-50">
+    <a href="https://wa.me/85260995333" class="flex-1 py-2.5 text-center rounded-full border border-[#C4A47C] text-[#3A3530] text-xs font-medium">WhatsApp 查詢</a>
+    <a href="https://harmonious-piroshki-ef19a4.netlify.app/" target="_blank" class="flex-1 py-2.5 text-center rounded-full bg-[#3A3530] text-[#FCF9F2] text-xs font-medium">課堂預約</a>
+  </div>
+</body>
+</html>
