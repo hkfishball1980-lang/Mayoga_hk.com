@@ -420,3 +420,21 @@ a.stat-link:hover { border-color: var(--gold); box-shadow: 0 6px 16px rgba(58,53
 @media (min-width: 768px) {
   .follow-band { padding: 2rem 0 2.15rem; }
 }
+
+/* 課堂預約 only (header + mobile bar): keep existing colours and gold hover,
+   lift the label above the fill so frosted-glass bars do not cover the text. */
+.desktop-nav > .btn-book,
+.header-actions > .btn-book,
+.mobile-bar > .btn-book {
+  position: relative;
+  z-index: 1;
+  isolation: isolate;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+}
+.desktop-nav > .btn-book > .btn-book-text,
+.header-actions > .btn-book > .btn-book-text,
+.mobile-bar > .btn-book > .btn-book-text {
+  position: relative;
+  z-index: 1;
+}
