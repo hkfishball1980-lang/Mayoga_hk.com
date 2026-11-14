@@ -438,3 +438,28 @@ a.stat-link:hover { border-color: var(--gold); box-shadow: 0 6px 16px rgba(58,53
   position: relative;
   z-index: 1;
 }
+
+/* 課堂預約 only (header + mobile bar): pure white text at rest and when
+   pressed; keep gold hover and the existing top-layer label. */
+.desktop-nav > .btn-book,
+.desktop-nav > .btn-book:link,
+.desktop-nav > .btn-book:visited,
+.header-actions > .btn-book,
+.header-actions > .btn-book:link,
+.header-actions > .btn-book:visited,
+.mobile-bar > .btn-book,
+.mobile-bar > .btn-book:link,
+.mobile-bar > .btn-book:visited {
+  color: #FFFFFF;
+}
+.desktop-nav > .btn-book:hover,
+.desktop-nav > .btn-book:focus-visible,
+.desktop-nav > .btn-book:active,
+.header-actions > .btn-book:hover,
+.header-actions > .btn-book:focus-visible,
+.header-actions > .btn-book:active,
+.mobile-bar > .btn-book:hover,
+.mobile-bar > .btn-book:focus-visible,
+.mobile-bar > .btn-book:active {
+  color: #FFFFFF;
+}
